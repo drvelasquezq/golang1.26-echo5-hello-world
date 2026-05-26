@@ -5,8 +5,6 @@
 
 ## Descripción
 
-# Hello World — Echo Framework
-
 Ejemplo mínimo de un servidor HTTP con web framework Echo en su versión 5 para Go [https://echo.labstack.com/docs/quick-start](https://echo.labstack.com/docs/quick-start). Responde con `Hello, World!` en la ruta raíz.
 
 # Uso
