@@ -49,3 +49,9 @@ Tener en cuenta que también es posible compilar el programa y luego ejecutarlo:
 go build -o hello-world
 ./hello-world
 ```
+
+# Entorno de ejecución 
+
+## docker
+
+<a href="https://github.com/drvelasquezq/docker-golang1.26-trixie" target="_blank">https://github.com/drvelasquezq/docker-golang1.26-trixie</a> 
