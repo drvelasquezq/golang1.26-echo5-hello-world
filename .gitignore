@@ -1,0 +1,11 @@
+# Binarios compilados
+hello-world
+*.exe
+*.out
+
+# Dependencias locales (ejecutar `go mod vendor` tras clonar)
+vendor/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
